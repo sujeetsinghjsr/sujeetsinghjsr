@@ -1,5 +1,20 @@
 # Hi, I'm Sujeet Kumar Singh 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&lines=Azure+Data+Engineer;Databricks+%7C+Azure+Data+Factory;SQL+%7C+Python;Capital+Markets+%7C+Regulatory+Reporting" />
+</p>
+
+<p align="center">
+
+  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+  ![Databricks](https://img.shields.io/badge/Databricks-EA4335?style=for-the-badge&logo=databricks&logoColor=white)
+  ![ADF](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+    ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</p>
+
 **Data Engineer | Technical Business Analyst | Capital Markets & Regulatory Reporting**
 
 📍 Bengaluru, India &nbsp;&nbsp;|&nbsp;&nbsp; 📧 sujeetsinghjsr@gmail.com &nbsp;&nbsp;|&nbsp;&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/sujeetsinghjsr) &nbsp;&nbsp;|&nbsp;&nbsp; 💼 [Publicis Sapient](https://www.publicissapient.com)
