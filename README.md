@@ -159,4 +159,3 @@ Led Shell's enterprise **Data Mesh transformation** across global business units
 *Open to Data Engineering roles — pipeline architecture · regulatory data · cloud data platforms*
 
 📧 sujeetsinghjsr@gmail.com &nbsp; | &nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/sujeetsinghjsr)
-<img width="468" height="638" alt="image" src="https://github.com/user-attachments/assets/8a70af4b-cd31-4291-9e4c-fe68df329e19" />
