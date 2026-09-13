@@ -132,12 +132,12 @@ Led Shell's enterprise **Data Mesh transformation** across global business units
 
 | Repository | Description |
 |---|---|
-| [mifid-rdp-pipeline-design](https://github.com/sujeethyd/mifid-rdp-pipeline-design) | MiFID II RDP trade linkage and data persistence architecture |
-| [data-mesh-shell](https://github.com/sujeethyd/data-mesh-shell) | Shell enterprise Data Mesh platform design patterns |
-| [delta-check-engine](https://github.com/sujeethyd/delta-check-engine) | Delta check state machine for MiFID II regulatory reporting |
-| [regulatory-uat-framework](https://github.com/sujeethyd/regulatory-uat-framework) | 89-scenario UAT test pack using dimensional coverage |
-| [reference-data-pipeline](https://github.com/sujeethyd/reference-data-pipeline) | JPMorgan 4M+ instrument reference data pipeline |
-| [databricks-lakehouse-patterns](https://github.com/sujeethyd/databricks-lakehouse-patterns) | Databricks Delta Lake patterns from Shell.ai platform |
+| [mifid-rdp-pipeline-design](https://github.com/sujeetsinghjsr/mifid-rdp-pipeline-design) | MiFID II RDP trade linkage and data persistence architecture |
+| [data-mesh-shell](https://github.com/sujeetsinghjsr/data-mesh-shell) | Shell enterprise Data Mesh platform design patterns |
+| [delta-check-engine](https://github.com/sujeetsinghjsr/delta-check-engine) | Delta check state machine for MiFID II regulatory reporting |
+| [regulatory-uat-framework](https://github.com/sujeetsinghjsr/regulatory-uat-framework) | 89-scenario UAT test pack using dimensional coverage |
+| [reference-data-pipeline](https://github.com/sujeetsinghjsr/reference-data-pipeline) | JPMorgan 4M+ instrument reference data pipeline |
+| [databricks-lakehouse-patterns](https://github.com/sujeetsinghjsr/databricks-lakehouse-patterns) | Databricks Delta Lake patterns from Shell.ai platform |
 
 ---
 
