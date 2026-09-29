@@ -1,4 +1,4 @@
-# Hi, I'm Sujeet Kumar Singh 👋
+# Hi, I am Sujeet Kumar Singh 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&lines=Azure+Data+Engineer;Databricks+%7C+Azure+Data+Factory;SQL+%7C+Python;Capital+Markets+%7C+Regulatory+Reporting" />
