@@ -4,7 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&lines=Azure+Data+Engineer;Databricks+%7C+Azure+Data+Factory;SQL+%7C+Python;Capital+Markets+%7C+Regulatory+Reporting" />
 </p>
 
-**Data Engineer | Technical Business Analyst | Capital Markets and Regulatory Reporting**
+**Senior Data Engineer | Data Engineering & Data Platforms | Databricks | Azure | PySpark | SQL | Data Mesh | Regulatory Data | Capital Markets**
+
+
 
 📍 Bengaluru, India &nbsp;&nbsp;|&nbsp;&nbsp; 📧 sujeetsinghjsr@gmail.com &nbsp;&nbsp;|&nbsp;&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/sujeetsinghjsr) &nbsp;&nbsp;|&nbsp;&nbsp; 💼 [Publicis Sapient](https://www.publicissapient.com)
 
